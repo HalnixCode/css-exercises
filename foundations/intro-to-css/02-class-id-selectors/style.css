@@ -1,0 +1,19 @@
+.fondo-rosa {
+    background-color: #f0bdc4;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#texto {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.tamanio-texto {
+    font-size: 24px;
+}
+
+#fondo-texto {
+    background-color: #b0f7b0;
+    font-size: 24px;
+    font-weight: bold;
+}
